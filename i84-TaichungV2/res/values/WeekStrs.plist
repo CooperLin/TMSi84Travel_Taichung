@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Full</key>
+		<string>週一</string>
+		<key>Simple</key>
+		<string>一</string>
+	</dict>
+	<dict>
+		<key>Full</key>
+		<string>週二</string>
+		<key>Simple</key>
+		<string>二</string>
+	</dict>
+	<dict>
+		<key>Full</key>
+		<string>週三</string>
+		<key>Simple</key>
+		<string>三</string>
+	</dict>
+	<dict>
+		<key>Full</key>
+		<string>週四</string>
+		<key>Simple</key>
+		<string>四</string>
+	</dict>
+	<dict>
+		<key>Full</key>
+		<string>週五</string>
+		<key>Simple</key>
+		<string>五</string>
+	</dict>
+	<dict>
+		<key>Full</key>
+		<string>週六</string>
+		<key>Simple</key>
+		<string>六</string>
+	</dict>
+	<dict>
+		<key>Full</key>
+		<string>週日</string>
+		<key>Simple</key>
+		<string>日</string>
+	</dict>
+</array>
+</plist>

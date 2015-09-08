@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[RoutePlanViewer viewWillAppear:]:RoutePlanViewer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "LocationMapV.userLocation.location">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RoutePlanViewer RoutePlanRequestFinish:]:RoutePlanViewer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[range length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RoutePlanViewer viewDidLoad]:RoutePlanViewer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "SubContentVFrame">
+            </PersistentString>
+            <PersistentString
+               value = "HotVFrame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

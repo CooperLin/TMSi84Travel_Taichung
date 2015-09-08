@@ -1,0 +1,263 @@
+/* 
+  LocalizedString_US.strings
+  i84-TaichungV2
+
+  Created by ＴＭＳ 景翊科技 on 2015/8/17.
+  Copyright (c) 2015年 ＴＭＳ 景翊科技. All rights reserved.
+*/
+
+//AppDelegate
+"CityRoutesPath"="/xmlbus3/en/StaticData/GetRoute.xml";
+"CityProvidersPath"="/xmlbus3/en/StaticData/GetProvider.xml";
+"HighwayRoutesPath"="/xmlbusgz/en/StaticData/GetRoute.xml";
+"HighwayProvidersPath"="/xmlbusgz/en/StaticData/GetProvider.xml";
+
+//MainViewController
+"background_img"="app-1136.png";
+"dynamic_btn"="Bus-Info.png";
+"routeplan_btn"="Route-Planner.png";
+"traveltime_btn"="Travel-Time.png";
+"nearstop_btn"="Nearby.png";
+"question_btn"="Report.png";
+"favorite_btn"="My-Favorite.png";
+"about_btn"="About.png";
+"push_btn"="Arrival-Alert.png";
+"language_btn"="Language.png";
+//TakeTimeViewController
+"旅行時間"="Travel Time";
+//StopsTakeTimeViewController
+"GetPathTime"="/itravel/itravelAPI/ExpoAPI/TravelTime.aspx?Departure=%@&Destination=%@&Time=%@&Lang=En";
+"起點"="Start";
+"訖點"="End";
+"請鍵入關鍵字"="Enter Keyword";
+"%d分%d秒"="%dmin %dsecond(s)";
+"站"="Stop";
+"無系統時間"="No system time";
+"無法連接伺服器"="Failed to connect the server";
+"查無資料"="No Data";
+"確認"="OK";
+"請輸入起點"="Enter Start";
+"請輸入訖點"="Enter End";
+"資料有誤"="Data Error";
+"OK"="OK";
+"查詢路線時間"="Query Travel Time";
+//MainVIewController
+"請先開啟網路或網路狀態不穩"="Turn on the network or it's unstable";
+"確定"="Yes";
+//AboutViewer
+"about"="about_US";
+"關於"="About";
+"版本序號:%@  %@"="version no.:%@  %@";
+"熱門景點版本:%@"="Hot Spots version:%@";
+//busDynamicViewController
+"3d"="68";
+"hyv"="70";
+"28"="64";
+"29"="65";
+"30"="66";
+"31"="67";
+"iTravelEstimateTime"="/itravel/ItravelAPI/ExpoAPI/EstimateTime.aspx?RouteID=%@&Type=%@&Lang=En";
+"公車動態"="Bus Info.";
+"往"="To";
+"%@分"="%@min(s)";
+"查無%@資料"="No %@ Data";
+"到站提醒加入失敗"="Fail to add";
+"請重新操作一遍"="Try again";
+"此站已加入過提醒"="The stop is already in alert list";
+"%@%@已在到站提醒列表中"="%@%@ is added";
+"我的最愛加入成功"="Add into Favorite successfully";
+"路線:%@ 站別:%@已加入我的最愛"="Route:%@ Stop:%@ is added";
+"我的最愛加入失敗"="Fail to add";
+"我的最愛資料重複"="The stop is already in Favorite";
+"路線:%@ 站別:%@ 已在我的最愛列表中"="Route:%@ Stop:%@ is already in Favorite";
+"32.png"="Refresh.png";
+"22.png"="Add-into-Alert.png";
+"23.png"="Favorite.png";
+"24.png"="Passing-routes.png";
+//SearchBusViewController
+"routesearch_clean.png"="Clear.png";
+"全部種類"="All";
+"市區客運業者"="city bus providers";
+"國道客運業者"="highway bus providers";
+"全部路線"="All Routes";
+//stopNearLinesViewController
+"經過路線"="Passing Routes";
+"於 %d 秒前更新"="Updated at %d second(s) ago";
+"去程: %@ -> %@"="Go to: %@ -> %@";
+"返程: %@ -> %@"="Back to: %@ -> %@";
+"未發車"="Bus at Depot";
+"%@ 分"="%@ min";
+"進站中"="Approaching";
+//FavoritesViewer
+"我的最愛"="My Favorite";
+"請確定網路是否啟用"="Please ensure that the network is connected";
+"往:%@"="To:%@";
+"更新中"="Updating";
+"末班駛離"="Service over";
+"將進站"="Approaching soon";
+"%d分"="%dmin(s)";
+"刪除失敗"="Fail to delete";
+"請再試一次或提交問題回報"="Try again or report";
+"舊版我的最愛不支援地圖功能"="No map function in old version";
+"請重新加入我的最愛"="Add into Favorite again";
+//nearStopViewController
+"RouteByCoordinate"="/itravel/itravelAPI/ExpoAPI/NearByStop.aspx?Lon=%0.6f&Lat=%0.6f&Range=%ld&Lang=En";
+"附近站牌"="NearBy Bus Stop";
+"100公尺"="100M";
+"300公尺"="300M";
+"500公尺"="500M";
+"%ld公尺內無站牌資料"="There isn't stop within %ld meters.";
+"車站 - %@"="車站 - %@";
+"去程: %@%@%@"="Go to: %@%@%@";
+"返程: %@%@%@"="Back to: %@%@%@";
+//PushViewer
+"APISelect"="/itravel/ItravelAPI/ExpoAPI/GetOrderStop.aspx?Did=%@&Phone=iPhone&City=Taichung&Lang=En";
+"APISelectForF"="%@/itravel/ItravelAPI/ExpoAPI/GetOrderStop.aspx?Did=%@&Phone=iPhone&City=Taichung&Lang=En";
+"到站提醒"="Arrival alert";
+"請先從公車動態加入站牌到到站提醒"="Please go to dynamic buc information\n page, and choose a stop to be added";
+"設定到站前提醒"="set arrival alert";
+"星期一"="Mon";
+"星期二"="Tue";
+"星期三"="Wed";
+"星期四"="Thu";
+"星期五"="Fri";
+"星期六"="Sat";
+"星期日"="Sun";
+"週一"="Mon";
+"週二"="Tue";
+"週三"="Wed";
+"週四"="Thu";
+"週五"="Fri";
+"週六"="Sat";
+"週日"="Sun";
+"上午 07:00"="AM 07:00";
+"下午 07:00"="PM 07:00";
+"1111台北到臺中"="1111 Taipei-Taichung";
+"高鐵臺中公車站"="Taiwan High Speed Rail Taichung";
+"路線:"="Route:";
+"站名:"="Stop:";
+"往:"="To:";
+"提醒開關:"="Start Alert:";
+"提醒開始時間:"="Start Time:";
+"提醒結束時間:"="End Time:";
+"提醒時間:"="Alert Time:";
+"設定提醒週期:"="Days:";
+"上午"="AM";
+"中午"="AM";
+"下午"="PM";
+"晚上"="PM";
+" %02d點"=" %02d : ";
+" %02d分"=" %02d";
+"設定提醒開始時間"="Start Time";
+"設定提醒結束時間"="EndTime";
+" 到站前%d分提醒"="Alert %d min(s) before arrival";
+"週"="Week";
+"提醒週期:"="Alert Days:";
+"確定刪除 %@[%@]?"="Are you sure to delete %@[%@]?";
+"確定刪除"="Are you sure to delete";
+"取消"="Cancel";
+"請先開啟網路，才能同步伺服器"="Turn on the network to start data synchronization";
+"更新到伺服器..."="update to server...";
+"更新推播成功"="updated successfully";
+"此路線站牌"="this route stop";
+"請確認是否覆蓋原資料"="Are you sure to replace?";
+"資料錯誤"="data error";
+//QuestionReportViewer
+"資訊不準確"="Info. Errors";
+"站牌毀損"="Stop Damages";
+"LED燈不亮"="LED Failure";
+"其他"="Others";
+"問題回報"="Report";
+"尚未填寫回報站牌!\n"="You didn't enter stop!\n";
+"尚未填寫回報人!\n"="You didn't enter reporter!\n";
+"尚未填寫回報EMail!\n"="You didn't enter email!\n";
+"尚未填寫回報內容!\n"="You didn't enter statement!\n";
+"請先填寫欄位"="Please fill in the blank";
+"請提供照片"="Please provide a photo";
+"請協助使用拍照功能記錄問題相片"="Please use camera to record";
+"發生錯誤，請稍後再試"="Error, please try again later";
+"回報上傳中..."="uploading...";
+"請打開GPS"="Please turn on GPS";
+"請先檢查網路狀態"="Please ensure that the network is connected";
+"question_Inaccurate_btn.png"="Info_Errors.png";
+"question_damage_btn.png"="Stop-Damages.png";
+"question_led_btn.png"="LED-Failure.png";
+"question_other_btn.png"="Others.png";
+"請輸入通報者"="Enter Name";
+"請輸入E-Mail"="Enter E-mail";
+"請輸入站牌名稱"="Enter stop name";
+"● 通報者"="● Name";
+"● 通報者E-Mail"="● E-mail";
+"● 站牌名稱"="● Stop Name";
+"● 通報內容概述"="● Statement";
+"拍照"="Take a Picture";
+"選擇照片"="Select Photos";
+"回報"="Send";
+//RoutePlanViewer
+"iTravelRoutePlan"="%@/iTravel/iTravel_WS/Service.asmx/JsonTravelPlan?SPx=%.6f&SPy=%.6f&EPx=%.6f&EPy=%.6f&GoDay=%@&GoTime=%@&Lang=en&Mode=%@&UserPickPlace=&source=I&SName=%@&EName=%@&SType=%@&EType=%@";
+"%@與%@"="%@ and %@";
+"沒有相符的行程"="No related plan";
+"沒有相符結果"="No related result";
+"搜尋地標"="Search Spot";
+"隱藏鍵盤"="Close Keyboard";
+"無相符結果"="No \nrelated \nresult";
+"搜尋失敗"="Fail to search";
+"路線規劃"="Route Planner";
+"查詢"="Query";
+"設定"="Setting";
+"搜尋"="Search";
+"快選"="Rapid pick";
+"routeplan_setstart.png"="Set_as_start.png";
+"routeplan_setend.png"="Set_as_end.png";
+"routeplan_addcollect.png"="Add_into_Collectibles.png";
+"自訂時間.png"="Set_time.png";
+"現在時間.png"="Now.png";
+"無時間.png"="No-setting.png";
+"routeplan_home.png"="Click-to-Home.png";
+"routeplan_nowlocation.png"="Your-Position.png";
+"routeplan_company.png"="Click-to-Company.png";
+"routeplan_hotlandmark.png"="Hot-Spots.png";
+"routeplan_collect.png"="My-Collectibles.png";
+"無法搜尋到相關地點，請輸入其它關鍵字"="No related position, enter other keywords";
+"公司"="My Company";
+"家"="My Home";
+"請先選擇起點或訖點"="Please enter start or end to search";
+"步行直達"="walk to arrive";
+"%@分"="%@min(s)";
+"%d分鍾"="%dmin";
+"%d小時"="%dhour";
+"總旅行時間："="Total travle time：";
+"方案 %ld"="Plan %ld";
+"需使用GPS裝置"="Please turn on GPS";
+"若欲使用完整功能, 請允許使用GPS"="Please allow to use GPS and run full function";
+"GPS更新失敗"="Fail to update GPS";
+"無法接收到GPS訊號"="Fail to received GPS signal";
+"已經加入到收藏過了"="The stop is already in Collectiles";
+"加入失敗，請重新再試!"="Fail to add, please try again!";
+"加入成功"="Is added";
+"目前位置"="Your Position";
+"先請加入地標"="Add the spot first";
+"錯誤"="Error";
+"請先開啟GPS功能\n"="Please turn on GPS\n";
+"尚未設定公司的位置\n"="Company isn't set, please turn on GPS\n";
+"尚未設定家的位置\n"="Home isn't set, please turn on GPS\n";
+"起點尚未設定\n"="Start isn't Set\n";
+"訖點尚未設定\n"="End isn't Set\n";
+"請先啟用GPS功能"="Please turn on GPS";
+"請鍵入地址或關鍵字"="Please enter address or keyword";
+"家_seg"="Home";
+"公司_seg"="Company";
+//SilderMenuView
+"路線規劃_title"="Route Planner";
+"公車動態_title"="Bus Info.";
+"附近站牌_title"="Nearby";
+"旅行時間_title"="Tavel Time";
+"問題回報_title"="Report";
+"我的最愛_title"="My Favorite";
+"到站提醒_title"="Arrival alert";
+"關於_title"="About";
+"首頁_title"="Home";
+"返回_title"="Back";
+"語系切換_title"="Language";
+//LanguageViewController
+"語系切換"="Language";

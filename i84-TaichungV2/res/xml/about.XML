@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <Row Background="" Image="" qname="" Text="v[Version] 版更新內容:&#13;        1.App 介面調整"/>
+<!--  <Row Background="Line" Image="" qname="" Text="" />-->
+  <Row Background="" Image="" qname="" Text="說明:&#13;        1.提供中彰投地區公車即時動態資訊&#13;        2.提供依站牌位置附近公車路線，並&#13;        顯示各路線到站資訊&#13;        3.提供站牌位置地圖顯示，並可結合&#13;        電子地圖輕易走到站牌&#13;         4. 提供最完整的旅程規劃功能， 依照目前GPS所在位置提共最佳的搭乘建議。" />
+<!--  <Row Background="Line" Image="" qname="" Text="" />-->
+<!-- 
+ edit Cooper 2015/08/06 
+ 0803_buglist 
+ 台中 第一項 業主資訊更換
+ -->
+  <Row Background="" Image="" qname="" Text="資料來源:臺中市政府交通局公共運輸處" />
+  <Row Background="" Image="" qname="" Text="開發單位:臺中市政府交通局公共運輸處" />
+</Table>

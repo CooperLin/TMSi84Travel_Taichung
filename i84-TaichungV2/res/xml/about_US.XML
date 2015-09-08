@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <Row Background="" Image="" qname="" Text="v[Version] 版更新內容:&#13;        1.App 介面調整"/>
+<!--  <Row Background="Line" Image="" qname="" Text="" />-->
+  <Row Background="" Image="" qname="" Text="Instruction:&#13;        1. Provide dynamic bus arrival information in Taichung, Changhua, and Nantou.&#13;        2. Provide nearby bus routes and arrival information based on stop positions.&#13;        3. Show stop positions on e-map to help you arrive easily.&#13;        4. Provide the most comprehensive function of travel plans and the best advice based on GPS information." />
+<!--  <Row Background="Line" Image="" qname="" Text="" />-->
+<!-- 
+ edit Cooper 2015/08/06 
+ 0803_buglist 
+ 台中 第一項 業主資訊更換
+ -->
+  <Row Background="" Image="" qname="" Text="Data Provider: The Public Transportation Office of the Transportation Bureau of Taichung City Hall" />
+  <Row Background="" Image="" qname="" Text="Developer: The Public Transportation Office of the Transportation Bureau of Taichung City Hall" />
+</Table>
